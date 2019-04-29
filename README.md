@@ -1,4 +1,5 @@
 # sample
 trail
 
-Some informations about the repository..
+Just created the new repository ...
+called/named 'new_repository'
